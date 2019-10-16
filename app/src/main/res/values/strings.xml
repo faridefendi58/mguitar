@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kunci Gitar</string>
+    <string name="version_unknown">Unknown</string>
+    <string name="app_version">Version</string>
+    <string name="default_notification_channel_id">Default</string>
+    <string name="webview_loading">Load Content... </string>
+
+    <string name="title_home">Home</string>
+    <string name="title_recommended">Recommended</string>
+    <string name="title_new_releases">New Releases</string>
+    <string name="title_genre">Genres</string>
+
+    <string name="button_home">Home</string>
+    <string name="button_genre">Genre</string>
+    <string name="button_more">More</string>
+
+    <string name="hint_search">Search</string>
+</resources>
